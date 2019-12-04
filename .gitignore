@@ -1,6 +1,7 @@
 *.png
 *.pdf
 /edx archived
+/0_LECTURE
 
 *.gz
 *.rar
