@@ -1,8 +1,8 @@
-*.png
-*.pdf
-/edx archived
-/0_LECTURE
+# *.png
+# *.pdf
+# /edx archived
+# /0_LECTURE
 
-*.gz
-*.rar
-*.mat
+# *.gz
+# *.rar
+# *.mat
